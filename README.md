@@ -11,7 +11,7 @@
 Thanks to all the amazing **`community contributors for sending PRs`** and keeping this project updated. :heart:
 
 <p align="left">
-<a href="https://github.com/Dhananjay70"><img src="https://avatars.githubusercontent.com/u/98754262?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
-<a href="https://github.com/nitin23123"><img src="https://avatars.githubusercontent.com/u/166863746?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/Dhananjay70"><img src="https://github.com/user-attachments/assets/f5210826-c75c-402b-946a-6cd1f742cedc" width="50" height="50" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/nitin23123"><img src="https://github.com/user-attachments/assets/18194dd9-6fa4-4cd2-9616-4baceee19b7b" width="50" height="50" alt="" style="max-width: 100%;"></a>
 <a href="https://github.com/themrityunjaypathak"><img src="https://avatars.githubusercontent.com/u/123563634?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
 </p>
