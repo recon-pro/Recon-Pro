@@ -6,6 +6,46 @@
 &nbsp;&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
+<hr>
+
+</p>
+
+<br>
+
+**Recon Pro is a complete web reconnaissance platform designed to map and monitor the entire attack surface. It automates asset discovery, web application reconnaissance, subdomain analysis, and intelligence
+collection in a single, unified workflow.**
+
+- End-to-end web reconnaissance and attack surface mapping
+- Automated discovery of domains, subdomains, and web assets
+- Web application reconnaissance with actionable intelligence
+- Centralized recon workflows in a single platform
+- Continuous monitoring and investigation-ready outputs
+
+## Table of Contents
+
+- [**`Get Started`**](#get-started)
+  - [_`1. Recon Pro CLI`_](#1-reconpro-cli)
+  - [_`2. Free and Pro Editions`_](#2-free-and-pro-editions)
+ 
+## Get Started
+
+### **1. Reconpro CLI**
+
+_ReconPro is a command-line (CLI) module that you can install locally on your machine. It includes 3 free scans with premium API keys. After the free scans are used, you can continue using ReconPro with the free API key service_
+
+- Comprehensive OSINT reconnaissance for target intelligence gathering
+- Subdomain enumeration using 13+ data sources for maximum coverage
+- Automated vulnerability scanning across discovered assets
+- AI-powered report generation for clear, actionable findings
+- Centralized target discovery, tracking, and management
+- CLI-first design with scalable reconnaissance workflows
+
+> [!Important]
+> |**This project is in active development**. Expect breaking changes with releases. Review the release changelog before updating.|
+> |:--------------------------------|
+> | This project is primarily built to be used as a standalone CLI tool. **Running reconpro as a service may pose security risks.** It's recommended to use with caution and additional security measures. |
+
+### **2. Free and Pro Editions**
 ## Contributors :heart:
 
 Thanks to all the amazing **`community contributors for sending PRs`** and keeping this project updated. :heart:
