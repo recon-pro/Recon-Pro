@@ -12,6 +12,6 @@ Thanks to all the amazing **`community contributors for sending PRs`** and keepi
 
 <p align="left">
 <a href="https://github.com/Dhananjay70"><img src="https://avatars.githubusercontent.com/u/98754262?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
-<a href="https://github.com/apps/nitin23123"><img src="https://avatars.githubusercontent.com/u/166863746?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/nitin23123"><img src="https://avatars.githubusercontent.com/u/166863746?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
 <a href="https://github.com/themrityunjaypathak"><img src="https://avatars.githubusercontent.com/u/123563634?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
 </p>
