@@ -1,4 +1,4 @@
-![Recon Pro]()
+![Recon Pro](recon-pro-minimal.svg)
 
 <p align="center">
 
