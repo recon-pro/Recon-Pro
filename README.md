@@ -54,6 +54,20 @@ _ReconPro is a command-line (CLI) module that you can install locally on your ma
 > | This project is primarily built to be used as a standalone CLI tool. **Running reconpro as a service may pose security risks.** It's recommended to use with caution and additional security measures. |
 
 ### **2. Free and Pro Editions**
+| Feature                       | Free          | Pro                  |
+| ----------------------------- | ------------- | -------------------- |
+| OSINT reconnaissance          | Basic         | Full                 |
+| API call access               | Limited       | Full                 |
+| Subdomain enumeration         | Basic sources | 13+ advanced sources |
+| Shodan-based discovery        | ❌             | ✅                    |
+| Acquisition sources           | ❌             | ✅                    |
+| Certificate Transparency (CT) | ❌             | ✅                    |
+| Reverse DNS enumeration       | ❌             | ✅                    |
+| ASN-based discovery           | ❌             | ✅                    |
+| Vulnerability scanning        | Basic         | Advanced             |
+| AI-powered report generation  | ✅             | ✅                    |
+| Target storage & management   | ✅             | ✅                    |
+
 ## Contributors :heart:
 
 Thanks to all the amazing **`community contributors for sending PRs`** and keeping this project updated. :heart:
