@@ -24,12 +24,20 @@ collection in a single, unified workflow.**
 ## Table of Contents
 
 - [**`Get Started`**](#get-started)
-  - [_`1. Recon Pro CLI`_](#1-reconpro-cli)
+  - [_`1. ReconPro CLI`_](#1-reconpro-cli)
   - [_`2. Free and Pro Editions`_](#2-free-and-pro-editions)
+  - [**`Documentation`**](#documentation)
+  - [_`Command Line Flags`_](#command-line-flags)
+  - [_`Single target scan`_](#single-target-scan)
+  - [_`Scanning multiple targets`_](#scanning-multiple-targets)
+  - [_`Network scan`_](#network-scan)
+- [**`Our Mission`**](#our-mission)
+- [**`Contributors`**](#contributors-heart) ❤
+- [**`License`**](#license)
  
 ## Get Started
 
-### **1. Reconpro CLI**
+### **1. ReconPro CLI**
 
 _ReconPro is a command-line (CLI) module that you can install locally on your machine. It includes 3 free scans with premium API keys. After the free scans are used, you can continue using ReconPro with the free API key service_
 
