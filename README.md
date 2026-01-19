@@ -68,6 +68,17 @@ _ReconPro is a command-line (CLI) module that you can install locally on your ma
 | AI-powered report generation  | ✅             | ✅                    |
 | Target storage & management   | ✅             | ✅                    |
 
+## Documentation
+
+## Our Mission
+
+Our mission is to empower security researchers and teams with a complete, accessible, and efficient reconnaissance platform.
+Recon Pro aims to simplify complex reconnaissance workflows by combining OSINT, large-scale subdomain discovery, vulnerability scanning, and AI-driven reporting into a single, easy-to-use CLI and platform.
+
+We focus on visibility, accuracy, and actionable intelligence, helping users understand their attack surface faster and make better security decisions.
+
+You can participate by contributing to our code, or [**`joining our team`**](https://reconpro.info).
+
 ## Contributors :heart:
 
 Thanks to all the amazing **`community contributors for sending PRs`** and keeping this project updated. :heart:
