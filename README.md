@@ -81,9 +81,9 @@ We focus on visibility, accuracy, and actionable intelligence, helping users und
 
 You can participate by contributing to our code, or [**`joining our team`**](https://reconpro.info).
 
-<div align="center">
+<div align="left">
 
-<a href="https://www.youtube.com/watch?v=b5qMyQvL1ZA&list=PLZRbR9aMzTTpItEdeNSulo8bYsvil80Rl&utm_source=github&utm_medium=web&utm_campaign=nuclei_readme" target="_blank"><img src="video-link.png" width="350px"></a>
+<a href="https://www.youtube.com/watch?v=b5qMyQvL1ZA&list=PLZRbR9aMzTTpItEdeNSulo8bYsvil80Rl&utm_source=github&utm_medium=web&utm_campaign=nuclei_readme" target="_blank"><img src="video-link.png" width="300px"></a>
 
 </div>
 
