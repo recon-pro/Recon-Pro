@@ -70,6 +70,8 @@ _ReconPro is a command-line (CLI) module that you can install locally on your ma
 
 ## Documentation
 
+Browse the full Reconpro [**`documentation here`**](). If you’re new to Reconpro, check out our [**`foundational YouTube series`**]().
+
 ## Our Mission
 
 Our mission is to empower security researchers and teams with a complete, accessible, and efficient reconnaissance platform.
