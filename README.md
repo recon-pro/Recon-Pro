@@ -72,6 +72,12 @@ _ReconPro is a command-line (CLI) module that you can install locally on your ma
 
 Browse the full Reconpro [**`documentation here`**](). If you’re new to Reconpro, check out our [**`foundational YouTube series`**]().
 
+<div align="Center">
+
+<a href="https://www.youtube.com/watch?v=b5qMyQvL1ZA&list=PLZRbR9aMzTTpItEdeNSulo8bYsvil80Rl&utm_source=github&utm_medium=web&utm_campaign=nuclei_readme" target="_blank"><img src="video-link.png" width="300px"></a>
+
+</div>
+
 ## Our Mission
 
 Our mission is to empower security researchers and teams with a complete, accessible, and efficient reconnaissance platform.
@@ -80,12 +86,6 @@ Recon Pro aims to simplify complex reconnaissance workflows by combining OSINT, 
 We focus on visibility, accuracy, and actionable intelligence, helping users understand their attack surface faster and make better security decisions.
 
 You can participate by contributing to our code, or [**`joining our team`**](https://reconpro.info).
-
-<div align="left">
-
-<a href="https://www.youtube.com/watch?v=b5qMyQvL1ZA&list=PLZRbR9aMzTTpItEdeNSulo8bYsvil80Rl&utm_source=github&utm_medium=web&utm_campaign=nuclei_readme" target="_blank"><img src="video-link.png" width="300px"></a>
-
-</div>
 
 ## Contributors :heart:
 
