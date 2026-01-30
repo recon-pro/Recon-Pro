@@ -27,13 +27,8 @@ collection in a single, unified workflow.**
   - [_`1. ReconPro CLI`_](#1-reconpro-cli)
   - [_`2. Free and Pro Editions`_](#2-free-and-pro-editions)
   - [**`Documentation`**](#documentation)
-  - [_`Command Line Flags`_](#command-line-flags)
-  - [_`Single target scan`_](#single-target-scan)
-  - [_`Scanning multiple targets`_](#scanning-multiple-targets)
-  - [_`Network scan`_](#network-scan)
 - [**`Our Mission`**](#our-mission)
 - [**`Contributors`**](#contributors-heart) ❤
-- [**`License`**](#license)
  
 ## Get Started
 
